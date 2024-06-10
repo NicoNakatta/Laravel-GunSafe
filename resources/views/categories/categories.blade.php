@@ -21,7 +21,7 @@
         <h3 class="kategori">KATEGORI</h3>
         <center>
         <button type="submit" class="databaru"><b><a href="/category/tambah">Data Baru</a><b></button>
-
+        <button type="submit" class="databaru"><b><a href="/category/cetak">Cetak</a><b></button>
         <table border="1" class="globel">
             <thead>
             <thead>
